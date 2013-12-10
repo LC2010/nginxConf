@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/certs/demo
+END
+dsa-ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/certs/demo/dsa-ca.pem
+END
+dsa-pca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/certs/demo/dsa-pca.pem
+END
+ca-cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/certs/demo/ca-cert.pem
+END
+pca-cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/certs/demo/pca-cert.pem
+END

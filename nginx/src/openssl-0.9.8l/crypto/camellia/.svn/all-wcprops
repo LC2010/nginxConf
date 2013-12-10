@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia
+END
+cmll_cbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/cmll_cbc.c
+END
+cmll_ctr.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/cmll_ctr.c
+END
+cmll_ecb.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/cmll_ecb.c
+END
+cmll_cfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/cmll_cfb.c
+END
+cmll_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/cmll_misc.c
+END
+cmll_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/cmll_locl.h
+END
+camellia.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/camellia.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/Makefile
+END
+camellia.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/camellia.h
+END
+cmll_ofb.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/camellia/cmll_ofb.c
+END

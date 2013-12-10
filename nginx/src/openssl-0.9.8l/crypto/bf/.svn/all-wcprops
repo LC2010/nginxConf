@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf
+END
+bf_cbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_cbc.c
+END
+bf_ecb.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_ecb.c
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/VERSION
+END
+bf_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_locl.h
+END
+bfspeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bfspeed.c
+END
+bfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bfs.cpp
+END
+bf_cfb64.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_cfb64.c
+END
+bf_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_enc.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/README
+END
+bf_skey.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_skey.c
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/blowfish.h
+END
+bf_pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_pi.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/INSTALL
+END
+lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/lib
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/COPYRIGHT
+END
+bf_ofb64.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_ofb64.c
+END
+bftest.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bftest.c
+END
+Makefile.save
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/Makefile.save
+END
+bf_opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/bf_opts.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/bf/Makefile
+END

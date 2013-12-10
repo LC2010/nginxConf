@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl
+END
+s3_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_meth.c
+END
+install.com
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/install.com
+END
+s3_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_pkt.c
+END
+s3_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_clnt.c
+END
+ssl_err.c.orig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_err.c.orig
+END
+ssl_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_err.c
+END
+s2_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s2_enc.c
+END
+t1_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/t1_lib.c
+END
+kssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/kssl.c
+END
+kssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/kssl.h
+END
+s23_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s23_meth.c
+END
+ssl_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_lib.c
+END
+s23_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s23_clnt.c
+END
+d1_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/d1_enc.c
+END
+ssl_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_stat.c
+END
+dtls1.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/dtls1.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/Makefile
+END
+ssl_sess.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_sess.c
+END
+s3_srvr.c.orig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_srvr.c.orig
+END
+ssltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssltest.c
+END
+ssl-lib.com
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl-lib.com
+END
+s3_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_srvr.c
+END
+s2_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s2_meth.c
+END
+s3_both.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_both.c
+END
+ssl_ciph.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_ciph.c
+END
+s2_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s2_clnt.c
+END
+ssl_rsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_rsa.c
+END
+t1_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/t1_enc.c
+END
+ssl23.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl23.h
+END
+kssl_lcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/kssl_lcl.h
+END
+flags
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/flags
+END
+s3_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_lib.c
+END
+d1_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/d1_meth.c
+END
+ssl_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_task.c
+END
+ssl_asn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_asn1.c
+END
+s23_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s23_srvr.c
+END
+d1_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/d1_clnt.c
+END
+tls1.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/tls1.h
+END
+ssl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl2.h
+END
+s2_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s2_srvr.c
+END
+t1_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/t1_meth.c
+END
+s2_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s2_pkt.c
+END
+t1_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/t1_clnt.c
+END
+ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl.h
+END
+ssl_algs.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_algs.c
+END
+s3_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s3_enc.c
+END
+d1_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/d1_srvr.c
+END
+d1_both.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/d1_both.c
+END
+d1_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/d1_pkt.c
+END
+lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/lib
+END
+s23_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s23_pkt.c
+END
+Makefile.save
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/Makefile.save
+END
+bio_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/bio_ssl.c
+END
+t1_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/t1_srvr.c
+END
+ssl_txt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_txt.c
+END
+ssl.h.orig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl.h.orig
+END
+s2_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s2_lib.c
+END
+ssl_cert.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_cert.c
+END
+ssl_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_locl.h
+END
+ssl3.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl3.h
+END
+d1_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/d1_lib.c
+END
+ssl_err2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/ssl_err2.c
+END
+s23_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/ssl/s23_lib.c
+END

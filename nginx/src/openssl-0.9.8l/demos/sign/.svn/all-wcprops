@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/sign
+END
+sig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/sign/sig.txt
+END
+sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/sign/sign.c
+END
+key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/sign/key.pem
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/sign/Makefile
+END
+cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/sign/cert.pem
+END
+sign.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/sign/sign.txt
+END

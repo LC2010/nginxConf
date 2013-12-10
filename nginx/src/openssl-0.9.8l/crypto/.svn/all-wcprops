@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eb/eb_rd/!svn/ver/46295/trunk/com/front/nginx/src/openssl-0.9.8l/crypto
+END
+opensslconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/opensslconf.h
+END
+LPdir_vms.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/LPdir_vms.c
+END
+buildinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/46295/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/buildinf.h
+END
+install.com
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/install.com
+END
+x86cpuid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/x86cpuid.pl
+END
+ia64cpuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ia64cpuid.S
+END
+fips_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/fips_err.c
+END
+tmdiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/tmdiff.c
+END
+ebcdic.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ebcdic.c
+END
+o_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_time.c
+END
+x86_64cpuid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/x86_64cpuid.pl
+END
+LPdir_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/LPdir_unix.c
+END
+tmdiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/tmdiff.h
+END
+fips_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/fips_err.h
+END
+ebcdic.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ebcdic.h
+END
+crypto-lib.com
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/crypto-lib.com
+END
+o_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_time.h
+END
+ossl_typ.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ossl_typ.h
+END
+md32_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/md32_common.h
+END
+dyn_lck.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/dyn_lck.c
+END
+lib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/lib
+END
+o_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_str.c
+END
+cryptlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/cryptlib.c
+END
+Makefile.save
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/Makefile.save
+END
+mem_dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/mem_dbg.c
+END
+o_str.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_str.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/Makefile
+END
+o_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_dir.c
+END
+cryptlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/cryptlib.h
+END
+cpt_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/cpt_err.c
+END
+LPdir_wince.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/LPdir_wince.c
+END
+ppccpuid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ppccpuid.pl
+END
+o_dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_dir.h
+END
+x86_64cpuid.s
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/x86_64cpuid.s
+END
+opensslconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/opensslconf.h.in
+END
+ex_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ex_data.c
+END
+sparcv9cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/sparcv9cap.c
+END
+sparccpuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/sparccpuid.S
+END
+mem_clr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/mem_clr.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/mem.c
+END
+opensslv.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/opensslv.h
+END
+o_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_init.c
+END
+uid.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/uid.c
+END
+crypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/crypto.h
+END
+LPdir_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/LPdir_win.c
+END
+symhacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/symhacks.h
+END
+cversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/cversion.c
+END
+LPdir_nyi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/LPdir_nyi.c
+END
+opensslconf.h.bak
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/46295/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/opensslconf.h.bak
+END
+o_dir_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/o_dir_test.c
+END
+s390xcpuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/s390xcpuid.S
+END
+LPdir_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/LPdir_win32.c
+END

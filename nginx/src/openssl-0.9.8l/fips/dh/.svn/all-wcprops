@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/dh
+END
+fips_dh_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/dh/fips_dh_lib.c
+END
+dh_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/dh/dh_gen.c
+END
+fips_dh_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/dh/fips_dh_key.c
+END
+fips_dh_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/dh/fips_dh_gen.c
+END
+fips_dh_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/dh/fips_dh_check.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/dh/Makefile
+END

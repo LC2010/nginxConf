@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa
+END
+ecdsatest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecdsatest.c
+END
+ecs_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecs_lib.c
+END
+ecs_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecs_err.c
+END
+ecdsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecdsa.h
+END
+lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/lib
+END
+ecs_vrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecs_vrf.c
+END
+ecs_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecs_locl.h
+END
+Makefile.save
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/Makefile.save
+END
+ecs_ossl.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecs_ossl.c
+END
+ecs_sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecs_sign.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/Makefile
+END
+ecs_asn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/ecdsa/ecs_asn1.c
+END

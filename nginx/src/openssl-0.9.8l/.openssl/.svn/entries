@@ -1,0 +1,40 @@
+10
+
+dir
+55994
+https://192.168.66.110:8000/eb/eb_rd/trunk/com/front/nginx/src/openssl-0.9.8l/.openssl
+https://192.168.66.110:8000/eb/eb_rd
+
+
+
+2012-08-16T09:16:09.835402Z
+46295
+shenyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a1b5e28c-3bbe-43d5-8582-af21af20de4c
+
+ssl
+dir
+
+include
+dir
+
+lib
+dir
+
+bin
+dir
+

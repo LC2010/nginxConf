@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t
+END
+bug.t
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/bug.t
+END
+input.t
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/input.t
+END
+phase.t
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/phase.t
+END
+subrequest.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/subrequest.t
+END
+builtin.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/builtin.t
+END
+eval.t
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/eval.t
+END
+sanity.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/sanity.t
+END
+vars.t
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/headers-more-nginx-module/t/vars.t
+END

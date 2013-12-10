@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/jpake
+END
+jpake.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/jpake/jpake.h
+END
+jpake_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/jpake/jpake_err.c
+END
+jpake.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/jpake/jpake.c
+END
+jpaketest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/jpake/jpaketest.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/jpake/Makefile
+END

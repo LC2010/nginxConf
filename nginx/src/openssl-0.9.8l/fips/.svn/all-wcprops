@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips
+END
+fipsld
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fipsld
+END
+fips.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips.c
+END
+fips-nodiff.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips-nodiff.txt
+END
+fips-lib.com
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips-lib.com
+END
+install.com
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/install.com
+END
+fips.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips.h
+END
+fips_premain.c.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips_premain.c.sha1
+END
+fipstests.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fipstests.bat
+END
+fips_test_suite.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips_test_suite.c
+END
+fips_premain.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips_premain.c
+END
+fipstests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fipstests.sh
+END
+fipsalgtest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fipsalgtest.pl
+END
+fips_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips_locl.h
+END
+fips_canister.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips_canister.c
+END
+mkfipsscr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/mkfipsscr.pl
+END
+fips_utl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/fips_utl.h
+END
+openssl_fips_fingerprint
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/openssl_fips_fingerprint
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/Makefile
+END

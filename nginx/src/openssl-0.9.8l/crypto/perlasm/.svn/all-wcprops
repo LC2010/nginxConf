@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm
+END
+x86ms.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm/x86ms.pl
+END
+x86asm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm/x86asm.pl
+END
+cbc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm/cbc.pl
+END
+x86_64-xlate.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm/x86_64-xlate.pl
+END
+x86unix.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm/x86unix.pl
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm/readme
+END
+x86nasm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/perlasm/x86nasm.pl
+END

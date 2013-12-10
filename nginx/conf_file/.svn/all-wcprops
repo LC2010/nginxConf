@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eb/eb_rd/!svn/ver/40930/trunk/com/front/nginx/conf_file
+END
+nginx_forum.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eb/eb_rd/!svn/ver/37551/trunk/com/front/nginx/conf_file/nginx_forum.conf
+END
+nginx_gps.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eb/eb_rd/!svn/ver/39208/trunk/com/front/nginx/conf_file/nginx_gps.conf
+END
+nginx_youa.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eb/eb_rd/!svn/ver/39278/trunk/com/front/nginx/conf_file/nginx_youa.conf
+END
+nginx_leho.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eb/eb_rd/!svn/ver/39278/trunk/com/front/nginx/conf_file/nginx_leho.conf
+END

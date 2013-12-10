@@ -1,0 +1,22 @@
+server {
+
+	listen       8080;
+	server_name  lehourl.cn;
+	error_page 400 403 404 405 406 500 501 502 503 504 505 http://www.leho.com/error;
+
+	rewrite "^[/]?([0-9a-zA-Z]{6})$"   /slink?_sk=$1  last;
+
+	include leho_static.conf;
+
+	rewrite ^/(.*)$ http://i.leho.com last;
+
+
+	location / {
+		root /home/mall/youa-php/runroot;
+		rewrite ^/(.*)$ /index.php?route=$1 break;
+
+		include fastcgi_php.conf;
+		fastcgi_pass   youaserver;
+	}
+	include baidusafe.conf;
+}

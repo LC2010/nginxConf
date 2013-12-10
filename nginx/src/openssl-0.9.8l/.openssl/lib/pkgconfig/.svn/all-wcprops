@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/.openssl/lib/pkgconfig
+END
+openssl.pc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/.openssl/lib/pkgconfig/openssl.pc
+END
+libcrypto.pc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/.openssl/lib/pkgconfig/libcrypto.pc
+END
+libssl.pc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/.openssl/lib/pkgconfig/libssl.pc
+END

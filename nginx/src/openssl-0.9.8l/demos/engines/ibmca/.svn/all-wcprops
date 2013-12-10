@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/ibmca
+END
+hw_ibmca.ec
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/ibmca/hw_ibmca.ec
+END
+hw_ibmca_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/ibmca/hw_ibmca_err.c
+END
+hw_ibmca_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/ibmca/hw_ibmca_err.h
+END
+hw_ibmca.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/ibmca/hw_ibmca.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/ibmca/Makefile
+END
+ica_openssl_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/ibmca/ica_openssl_api.h
+END

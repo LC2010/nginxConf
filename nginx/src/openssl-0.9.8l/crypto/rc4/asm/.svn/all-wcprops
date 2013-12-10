@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/rc4/asm
+END
+rc4-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/rc4/asm/rc4-586.pl
+END
+rc4-ia64.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/rc4/asm/rc4-ia64.S
+END
+rc4-x86_64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/rc4/asm/rc4-x86_64.pl
+END

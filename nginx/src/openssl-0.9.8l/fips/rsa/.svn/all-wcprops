@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa
+END
+fips_rsa_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsa_gen.c
+END
+fips_rsa_selftest.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsa_selftest.c
+END
+fips_rsa_x931g.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsa_x931g.c
+END
+fips_rsa_eay.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsa_eay.c
+END
+fips_rsa_sign.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsa_sign.c
+END
+fips_rsastest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsastest.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/Makefile
+END
+fips_rsa_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsa_lib.c
+END
+fips_rsavtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsavtest.c
+END
+fips_rsagtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/rsa/fips_rsagtest.c
+END

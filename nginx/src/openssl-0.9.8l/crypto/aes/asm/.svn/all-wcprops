@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm
+END
+aes-586.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm/aes-586.pl
+END
+aes-ppc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm/aes-ppc.pl
+END
+aes-s390x.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm/aes-s390x.pl
+END
+aes-sparcv9.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm/aes-sparcv9.pl
+END
+aes-armv4.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm/aes-armv4.pl
+END
+aes-ia64.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm/aes-ia64.S
+END
+aes-x86_64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/crypto/aes/asm/aes-x86_64.pl
+END

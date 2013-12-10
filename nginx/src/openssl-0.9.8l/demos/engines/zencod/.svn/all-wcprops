@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/zencod
+END
+hw_zencod.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/zencod/hw_zencod.c
+END
+hw_zencod.ec
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/zencod/hw_zencod.ec
+END
+hw_zencod.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/zencod/hw_zencod.h
+END
+hw_zencod_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/zencod/hw_zencod_err.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/zencod/Makefile
+END
+hw_zencod_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/engines/zencod/hw_zencod_err.h
+END

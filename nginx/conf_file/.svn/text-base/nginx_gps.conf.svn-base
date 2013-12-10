@@ -1,0 +1,295 @@
+
+#user  work work;
+worker_processes  8;
+#worker_cpu_affinity 00000001 00000010 00000100 00001000 00010000 00100000 01000000 10000000;
+worker_rlimit_nofile 40960;
+pid        logs/nginx.pid;
+
+error_log  logs/error.log  debug;
+
+events {
+	use epoll;
+	worker_connections  5120;
+}
+
+
+http {
+
+	log_format  main  '$remote_addr $http_x_forwarded_for $remote_user [$time_local] "$request" '
+		'$status $body_bytes_sent http_referer:"$http_referer" '
+		'"$http_user_agent" "$http_cookie" "$request_time" "$upstream_cache_status" "$server_name" "$gzip_ratio" "$host"';   
+	include       mime.types;
+	default_type  text/plain;
+
+	access_log  logs/access.log  main;
+	rewrite_log on;
+
+	keepalive_timeout  30;
+
+	scgi_temp_path tmp/scgi_tmp;
+	uwsgi_temp_path tmp/uwsgi_tmp;
+
+	client_body_temp_path tmp/client_body_tmp;
+	client_header_timeout 1s;
+	client_body_timeout 10s;
+	client_header_buffer_size 4k;
+	client_max_body_size 4m;
+	server_names_hash_bucket_size 128;
+	large_client_header_buffers 4 32k;
+	server_tokens off;
+
+	gzip             on;
+	gzip_min_length  1k;
+	gzip_buffers     2 16k;
+	gzip_proxied     expired no-cache no-store private auth;
+	gzip_comp_level  2;
+	gzip_types       application/x-javascript text/css text/xml application/xhtml+xml text/plain application/atom+xml application/rss+xml application/json;
+	gzip_vary      on;
+	if_modified_since before;
+
+	sendfile        on;
+	directio  4m;
+	tcp_nopush     on;
+	tcp_nodelay     on;
+
+	open_file_cache max=1024 inactive=20s;
+	open_file_cache_valid    60s;
+	open_file_cache_min_uses 2;
+	open_file_cache_errors   on;
+
+	proxy_connect_timeout 15;
+	proxy_send_timeout 15;
+	proxy_read_timeout 30;
+	proxy_buffer_size 64k;
+	proxy_buffers 4 256k;
+	proxy_busy_buffers_size 512k;
+	proxy_temp_file_write_size 512k;
+	proxy_temp_path tmp/fastcgi_tmp;
+
+#fastcgi缓存    
+	proxy_cache_path data/cache levels=1:2   keys_zone=purge_zone:20m inactive=1d max_size=10g;
+	proxy_cache purge_zone;
+	proxy_cache_key "$host$request_uri";
+	proxy_cache_valid 200 10m; 
+	proxy_cache_min_uses  1;
+	# proxy_cache_use_stale error timeout invalid_header http_500;	
+
+	proxy_intercept_errors on; 
+
+	expires 10m;
+
+	error_page 400 403 404 405 406 500 501 502 503 504 505 http://www.youa.com/static/error/images/error.gif;
+
+        usertrack off;
+        #usertrack_domain '.youa.com'; 
+	more_set_headers 'Server: Apache'; 
+
+#防攻击
+	#include ip.blacklist;
+	#limit_zone ip_zone  $binary_remote_addr  10m;
+	#limit_conn   ip_zone  500;
+	
+	#limit_req_zone  $binary_remote_addr  zone=req_zone:10m   rate=100r/s;
+	#limit_req   zone=req_zone  burst=500;
+
+
+
+	upstream gpsserver {
+		server 127.0.0.1:8646;
+	}
+	upstream youaserver {
+		server db-eb-youa-logic00.db01.baidu.com:8080;
+                  server db-eb-youa-logic01.db01.baidu.com:8080;
+ 
+	}
+
+	server {
+#回头改为8080
+		listen       8080;
+		server_name  localhost;
+
+#防盗链
+#      include ext_refer;
+
+# if ($invalid_referer) {
+#     rewrite ^/  http://www.youa.com;
+
+#}
+
+       if ($http_referer !~ "^$|(.*)\.baidu\.com|http://www.google.com/reader/view/|http://9.douban.com/|http://www.zhuaxia.com/|http://www.hao123.com|http://www.hao123.net|http://www.hao222.com|http://www.hao222.net|http://hao123.com|http://hao123.net|http://hao222.com|http://hao222.net|http://baidu.uudiy.com|http://youa.com|http://www.youa.com|http://beijing.youa.com|http://tuan.youa.com|http://search.youa.com|http://st.youa.com|http://baifubao.com|http://piao.baifubao.com|http://piao.youa.baidu.com|http://piao.youa.com|http://tuan.hao123.com/|http://tuangou.hao123.com|http://www.tuan400.com|http://tuan400.com|http://www.renren.com|http://t.sina.com.cn|http://t.qq.com|http://www.douban.com|http://www.kaixin001.com|http://life.youa.com|http://v.t.sina.com.cn|http://www.connect.renren.com|http://v.t.qq.com|http://tuan.kaixin001.com|http://tuan.kx001.com|http://youa.cn/|http://m.youa.com/|http://www.youa.cn/|http://www.topzj.com/|http://www.6k7.com.cn/|http://www.9shequ.cn/|http://www.jutao.com/|http://1717ba.com/|http://www.tuangoulian.com/|http://www.tuan345.com/|http://www.goutuan.net/|http://tuan.9shequ.cn/|http://dingyue.youa.com/|http://tuan.yahoo.cn/|http://tuan.cn.yahoo.com/|http://www.1717ba.com/|http://((.*)\.)?leho\.com")
+       {
+
+            rewrite ^[/]?(.*)$ http://www.youa.com/ redirect;
+
+       }
+
+#百度安全标准
+		if ($host !~ "\.baidu\.com$|\.youa\.com$||\.youa\.com\:|\.baidu\.com\:|\.baidu\.com\.cn$|\.baidu\.com\.cn\:|\.baidu\.cn$|\.baidu\.cn\:|^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$|^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\:") {       			rewrite ^/(.*)$ http://error.baidu.com/errorname.html?url=%1&fr=xxx redirect;
+		}  
+
+		location /nginx-status {
+			stub_status     on;  
+			access_log      off;
+			allow 127.0.0.1; #此处可配置为其它内网机器IP地址，但不能配置为外网或办公网地址
+				allow 10.81.6.126; #simeng自己配地址，这是查询nginx状态的
+				deny  all;
+		} 
+
+		location ~* \.(sql|bak|inc|old)$ {               
+			return 403;
+		}   
+
+		location ^~ /upload/ {
+			if ($request_filename  !~* \.(jpg|jpeg|gif|png|swf|zip|rar|txt)$) {    
+				return 403;         
+			}   
+			alias   /home/work/path/to/upload/;
+		}
+#以上为安全标准
+
+
+#重写规则
+#rewrite ^/favicon.ico /static/favicon.ico last;
+		
+#		location / {
+#默认路径
+#root /home/mall/youa-php/runroot;
+#重写规则
+#rewrite ^/favicon.ico /static/favicon.ico last;
+
+#			proxy_pass http://gpsserver;
+
+#		}
+
+		rewrite ^/img_src/pic/item/(.*)\.jpg$ /img_src/$1 last;
+		rewrite ^/img_src/abpic/item/(.*)----\.jpg$ /img_new/$1--300-300-1 last;
+		rewrite ^/img_src/mabpic/item/(.*)----\.jpg$ /img_new/$1--220-220-1 last;
+		rewrite ^/img_src/sabpic/item/(.*)----\.jpg$ /img_new/$1--150-150-1 last;
+		rewrite ^/img_src/tabpic/item/(.*)----\.jpg$ /img_new/$1--75-75-1 last;
+
+		location /img_src {
+			proxy_cache purge_zone;
+#使用NAME这个keys_zone
+			proxy_cache_valid 200 1h;
+			proxy_pass http://gpsserver;
+		}       
+
+		location /img_new {
+			proxy_cache purge_zone;
+#使用NAME这个keys_zone
+			proxy_cache_valid 200 1h;
+			proxy_pass http://gpsserver;
+		}
+	}
+
+#图片服务器，图片扩展 
+	server { 
+		listen       8646;
+		server_name  localhost;
+
+
+#安全标准       
+		if ($host !~ "\.baidu\.com$|\.youa\.com$||\.youa\.com\:|\.baidu\.com\:|\.baidu\.com\.cn$|\.baidu\.com\.cn\:|\.baidu\.cn$|\.baidu\.cn\:|^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$|^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\:") {       
+			rewrite ^/(.*)$ http://error.baidu.com/errorname.html?url=%1&fr=xxx redirect;
+		}  
+
+		location /nginx-status {
+			stub_status     on;
+			access_log      off;
+			allow 127.0.0.1; #此处可配置为其它内网机器IP地址，但不能配置为外网或办公网地址
+				allow 10.81.6.126; #simeng自己配地址，这是查询nginx状态的
+				deny  all;
+		}   
+
+		location ~* \.(sql|bak|inc|old)$ {                
+			return 403;
+		}
+
+		location ^~ /upload/ {
+			if ($request_filename  !~* \.(jpg|jpeg|gif|png|swf|zip|rar|txt)$) {             
+				return 403;       
+			}
+			alias   /home/work/path/to/upload/;
+		}
+#以上为安全标准
+
+#		location / {
+#			root /home/mall/m-php/runroot;
+#			rewrite ^/(.*)$ /index.php?route=$1 break;
+#			include fastcgi.conf;
+#			fastcgi_pass   youaserver;
+#		}
+
+#		rewrite ^/img_src/pic/item/(.*)\.jpg$ /img_src/$2 last;
+#		rewrite ^/img_src/abpic/item/(.*)----\.jpg$ /img_new/$1--300-300-1 last;
+#		rewrite ^/img_src/mabpic/item/(.*)----\.jpg$ /img_new/$1--220-220-1 last;
+#		rewrite ^/img_src/sabpic/item/(.*)----\.jpg$ /img_new/$1--150-150-1 last;
+#		rewrite ^/img_src/tabpic/item/(.*)----\.jpg$ /img_new/$1--75-75-1 last;
+		rewrite ^/uppic/show(.*)$ /uppic/show$1;
+
+		location /img_src {
+			http_great_picture_system;
+#TTServer的IP
+			http_great_picture_system_ip 10.81.6.95;
+#TTServer的端口
+			http_great_picture_system_port 11211;
+#GPS的key
+			http_great_picture_system_gps_key Eb; 
+#GPS的的大小限制
+			http_great_picture_system_gps_size 75-75 150-150 220-220 300-300 400-300;
+#与TTServer交互的连接超时
+			http_great_picture_system_connect_timeout 100;
+#与TTServer交互的读buf大小
+			http_great_picture_system_read_buf_size 5000000;
+#与TTServer交互的写buf大小
+			http_great_picture_system_write_buf_size 5000;
+#图片不存在的id
+			http_great_picture_system_error_pic img_src:4;
+#图片的表名
+			http_great_picture_system_table_name img_src:;
+#图片与php交互参数名
+			http_great_picture_system_arg_name imid_str=;
+			http_great_picture_system_php_page /uppic/show;
+		}   
+
+		location /img_new {
+			http_great_picture_system;
+#TTServer的IP
+			http_great_picture_system_ip 10.81.6.95;
+#TTServer的端口
+			http_great_picture_system_port 11213;
+#GPS的key
+			http_great_picture_system_gps_key Eb;
+#GPS的的大小限制
+			http_great_picture_system_gps_size 75-75 150-150 220-220 300-300;
+#与TTServer交互的连接超时
+			http_great_picture_system_connect_timeout 100;
+#与TTServer交互的读buf大小
+			http_great_picture_system_read_buf_size 5000000;
+#与TTServer交互的写buf大小
+			http_great_picture_system_write_buf_size 5000;
+#图片不存在的id
+			http_great_picture_system_error_pic img_new:4;
+#图片的表名
+			http_great_picture_system_table_name img_new:;
+#图片与php交互参数名
+			http_great_picture_system_arg_name imid_str=;
+			http_great_picture_system_php_page /uppic/show;
+		}
+
+		location /uppic {
+			proxy_cache purge_zone;
+#使用NAME这个keys_zone
+			proxy_cache_valid 200 1h;
+#		        proxy_pass http://127.0.0.1:8630;
+#            		proxy_pass http://bb-eb-mall-test03.bb01.baidu.com:8180;
+#			proxy_pass http://db-ebmall-test01.vm.baidu.com;
+			proxy_pass http://youaserver;
+#		        proxy_cache_key $host$uri$is_args$args;
+		}
+
+	}
+
+
+}
+

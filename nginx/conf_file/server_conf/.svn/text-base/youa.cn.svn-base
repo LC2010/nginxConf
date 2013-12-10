@@ -1,0 +1,22 @@
+  
+#youa.cn 
+
+	server { 
+		listen       8080;
+		server_name  youa.cn;
+
+ 
+                include youa_static.conf;
+		
+                rewrite ^[/]?$ /index.php?route=/ last;
+	
+		location / {
+			root /home/mall/m-php/runroot;
+			rewrite ^/(.*)$ /index.php?route=$1 break;
+                        include fastcgi_php.conf; 
+                        fastcgi_pass   youaserver;
+		}
+                include baidusafe.conf;
+	}
+
+

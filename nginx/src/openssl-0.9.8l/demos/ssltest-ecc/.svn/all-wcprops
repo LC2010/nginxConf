@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/ssltest-ecc
+END
+RSAcertgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/ssltest-ecc/RSAcertgen.sh
+END
+ssltest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/ssltest-ecc/ssltest.sh
+END
+ECCcertgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/ssltest-ecc/ECCcertgen.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/ssltest-ecc/README
+END
+ECC-RSAcertgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/demos/ssltest-ecc/ECC-RSAcertgen.sh
+END

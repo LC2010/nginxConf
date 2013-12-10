@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/sha
+END
+fips_standalone_sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/sha/fips_standalone_sha1.c
+END
+fips_sha1_selftest.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/sha/fips_sha1_selftest.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/sha/Makefile
+END
+fips_shatest.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l/fips/sha/fips_shatest.c
+END

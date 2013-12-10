@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eb/eb_rd/!svn/ver/47910/trunk/com/front/nginx/bin
+END
+nginx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eb/eb_rd/!svn/ver/43115/trunk/com/front/nginx/bin/nginx
+END
+nginx.1.2.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eb/eb_rd/!svn/ver/46338/trunk/com/front/nginx/bin/nginx.1.2.3
+END
+nginx.1.0.15
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eb/eb_rd/!svn/ver/46297/trunk/com/front/nginx/bin/nginx.1.0.15
+END
+nginx.1.2.3.debug
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eb/eb_rd/!svn/ver/47904/trunk/com/front/nginx/bin/nginx.1.2.3.debug
+END
+nginx.1.2.3.debug.withoutssl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eb/eb_rd/!svn/ver/47910/trunk/com/front/nginx/bin/nginx.1.2.3.debug.withoutssl
+END

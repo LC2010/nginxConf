@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/eb/eb_rd/!svn/ver/53608/trunk/com/front/nginx
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eb/eb_rd/!svn/ver/36116/trunk/com/front/nginx/install.sh
+END
+install_forum.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eb/eb_rd/!svn/ver/36116/trunk/com/front/nginx/install_forum.sh
+END
+releasenotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/releasenotes.txt
+END
+install_gps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eb/eb_rd/!svn/ver/36116/trunk/com/front/nginx/install_gps.sh
+END
+install_bk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/install_bk.sh
+END
+install_web.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eb/eb_rd/!svn/ver/46296/trunk/com/front/nginx/install_web.sh
+END
+install_youa.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eb/eb_rd/!svn/ver/53608/trunk/com/front/nginx/install_youa.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/Makefile
+END
+conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/eb/eb_rd/!svn/ver/53608/trunk/com/front/nginx/conf.sh
+END

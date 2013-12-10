@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eb/eb_rd/!svn/ver/53608/trunk/com/front/nginx/src
+END
+nginx-0.8.54.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/nginx-0.8.54.tar.gz
+END
+pcre-8.01.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/pcre-8.01.tar.gz
+END
+nginx-1.0.3.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/nginx-1.0.3.tar.gz
+END
+nginx-1.2.3.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eb/eb_rd/!svn/ver/46295/trunk/com/front/nginx/src/nginx-1.2.3.tar.gz
+END
+nginx-1.0.15.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eb/eb_rd/!svn/ver/46295/trunk/com/front/nginx/src/nginx-1.0.15.tar.gz
+END
+openssl-0.9.8l.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eb/eb_rd/!svn/ver/43116/trunk/com/front/nginx/src/openssl-0.9.8l.tar.gz
+END

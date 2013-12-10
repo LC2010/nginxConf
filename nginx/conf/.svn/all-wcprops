@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eb/eb_rd/!svn/ver/37552/trunk/com/front/nginx/conf
+END
+ip.blacklist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eb/eb_rd/!svn/ver/37552/trunk/com/front/nginx/conf/ip.blacklist
+END
+fastcgi_params
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eb/eb_rd/!svn/ver/36012/trunk/com/front/nginx/conf/fastcgi_params
+END
+fastcgi.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eb/eb_rd/!svn/ver/36012/trunk/com/front/nginx/conf/fastcgi.conf
+END
+upstream.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/conf/upstream.conf
+END

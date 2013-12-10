@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/nginx_concat_module
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/nginx_concat_module/LICENCE
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/nginx_concat_module/config
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/nginx_concat_module/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/nginx_concat_module/ChangeLog
+END
+ngx_http_concat_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/nginx_concat_module/ngx_http_concat_module.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eb/eb_rd/!svn/ver/34752/trunk/com/front/nginx/src/third_modules/nginx_concat_module/README
+END
